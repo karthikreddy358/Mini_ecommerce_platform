@@ -64,4 +64,4 @@ Run this from the frontend folder:
 ## Notes
 
 - The homepage content is currently focused on sustainable consumer products and eco-conscious shopping.
-- The login and sign-up screens are presentational and are ready to be wired to real authentication logic.
+- The login and sign-up screens are presentational and are ready to be wired to real authentication 
